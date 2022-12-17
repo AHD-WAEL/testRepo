@@ -5,3 +5,4 @@ our first line without conflict
 this is the conflict excatly
 our first reposatory line with conflict
 push the conflict
+conflict 3
